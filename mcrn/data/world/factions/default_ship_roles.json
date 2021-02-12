@@ -1,0 +1,17 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+
+	"combatSmall":{
+		"mcrn_corvette_Elite":10,
+
+	},
+	"combatMedium":{
+		"mcrn_scirocco_Elite":10,
+
+	},
+	"combatCapital":{
+		"mcrn_donnager_Elite":10,
+
+	},
+	}

@@ -1,0 +1,57 @@
+{
+  "animationType": "GLOW_AND_FLASH",
+  "autocharge": true,
+  "barrelMode": "ALTERNATING",
+  "fireSoundTwo": "hellbore_fire",
+  "glowColor": [
+    100,
+    155,
+    255,
+    255
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "hardpointGlowSprite": "graphics/weapons/tahlan_gardas_hp_glow.png",
+  "hardpointOffsets": [
+    9,
+    0
+  ],
+  "hardpointSprite": "graphics/weapons/tahlan_gardas_hp_base.png",
+  "hardpointUnderSprite": "graphics/weapons/tahlan_gardas_hp_under.png",
+  "id": "mcrn_railgun",
+  "muzzleFlashSpec": {
+    "length": 150,
+    "particleColor": [
+      125,
+      175,
+      255,
+      255
+    ],
+    "particleCount": 80,
+    "particleDuration": 0.1,
+    "particleSizeMin": 15,
+    "particleSizeRange": 21,
+    "spread": 2
+  },
+  "projectileSpecId": "mcrn_railgun_shot",
+  "renderHints": [
+    RENDER_BARREL_BELOW
+  ],
+  "size": "LARGE",
+  "specClass": "projectile",
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0
+  ],
+  "turretGlowSprite": "graphics/weapons/tahlan_gardas_turret_glow.png",
+  "turretGunSprite": "graphics/weapons/tahlan_gardas_turret_base.png",
+  "turretOffsets": [
+    9,
+    0
+  ],
+  "turretSprite": "graphics/weapons/tahlan_gardas_turret_base.png",
+  "turretUnderSprite": "graphics/weapons/tahlan_gardas_turret_under.png",
+  "type": "BALLISTIC",
+  "visualRecoil": 5
+}
