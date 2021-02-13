@@ -1,0 +1,28 @@
+{
+  "displayName": "Elite",
+  "fluxCapacitors": 0,
+  "fluxVents": 10,
+  "goalVariant": true,
+  "hullId": "mcrn_corvette",
+  "hullMods": [
+    "eccm"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "mcrn_corvette_Elite",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "mcrn_pdc",
+        "WS0002": "mcrn_pdc",
+        "WS0003": "mcrn_mmt",
+        "WS0006": "mcrn_pdc",
+        "WS0007": "mcrn_pdc",
+        "WS0008": "mcrn_railgun"
+      }
+    }
+  ],
+  "wings": []
+}
