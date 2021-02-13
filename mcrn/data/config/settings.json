@@ -1,0 +1,16 @@
+{
+
+	"designTypeColors":{
+	
+		"Mars":[139,0,0,200],
+		
+	},
+	
+	"graphics":{
+	
+		"blueprint_packages":{
+		
+			"mcrn_package":"graphics/icons/cargo/mcrn_package_bp.png",
+		},
+	}
+}

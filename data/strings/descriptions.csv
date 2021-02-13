@@ -1,6 +1,0 @@
-id,type,text1,text2,text3,notes
-mcrn_corvette,SHIP,The Corvette is a small Frigate used in pirate supression and as support.,,,
-mcrn_pdc,WEAPON,The 40mm PDC is the main armerment for CQC and for defence against missiles.,,,
-mcrn_mmt,WEAPON,The Medium Marsian Torpedo is the main armerment for long range combat. It is primarily used by smaller cruisers and corvettes. ,,,
-mcrn_hmt,WEAPON,The Heavy Marsian Torpedo is the main armerment for long range combat. It is only used by the largest class of ships like the Donnager.,,,
-mcrn_donnager,WEAPON,The Donnager Class is the most sophisticated and the capital ship of MCRN,,,
